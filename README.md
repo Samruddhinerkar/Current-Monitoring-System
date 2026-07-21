@@ -50,6 +50,3 @@ This project is an IoT-based Current Monitoring System that measures AC current 
 * Create a mobile application for monitoring
 * Add voltage and power measurement
 
-## Author
-
-**Samruddhi Nerkar**
