@@ -1,5 +1,4 @@
 # Current-Monitoring-System
-# Current Monitoring System
 
 ## Overview
 
